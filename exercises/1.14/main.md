@@ -1,0 +1,3 @@
+# Advantages of using for loops over while loops and vice versa...
+
+> The advantage of using a for loop is that you can loop it a certain amount of times in a certain range. You can do this while while loops but it requires more code and requires more variables.
